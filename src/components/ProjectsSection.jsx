@@ -16,8 +16,8 @@ const projects = [
     description: "My Personal Professional Portfolio using React | SPA",
     image: "/projects/port1.png",
     tags: ["React", "Lucid React", "TailwindCSS"],
-    demoUrl: "#",
-    githubUrl: "#",
+    demoUrl: "https://suryakanta-salunkhe.netlify.app/",
+    githubUrl: "https://github.com/SuryakantaPatil/Surya-Portfolio",
   },
   //   {
   //     id: 3,
